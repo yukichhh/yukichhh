@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title description">
   <title id="title">yukich</title>
-  <desc id="description">Студент NEOVERSITY. Починаю свій шлях в IT. Python — базовий рівень. Цікавлюся кібербезпекою.</desc>
+  <desc id="description">NEOVERSITY student. Starting my journey in tech. Beginner Python knowledge. Interested in cybersecurity.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#101d30"/>
@@ -17,17 +17,17 @@
   <rect x="1" y="1" width="1198" height="398" rx="24" fill="url(#background)" stroke="#26374c"/>
   <rect x="1" y="1" width="1198" height="398" rx="24" fill="url(#grid)"/>
   <path d="M60 56H102" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-  <text x="118" y="62" fill="#a1b5cd" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">yukich / ОСОБИСТИЙ ПРОФІЛЬ</text>
+  <text x="118" y="62" fill="#a1b5cd" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">yukich / PERSONAL PROFILE</text>
   <text x="60" y="157" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">yukich</text>
-  <text x="62" y="207" fill="#a8bdd3" font-family="Segoe UI,Arial,sans-serif" font-size="25">Починаю свій шлях в IT.</text>
+  <text x="62" y="207" fill="#a8bdd3" font-family="Segoe UI,Arial,sans-serif" font-size="25">Starting my journey in tech.</text>
   <g font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">
     <rect x="60" y="256" width="160" height="42" rx="21" fill="#142e32" stroke="#2d6263"/>
     <circle cx="82" cy="277" r="4" fill="#5eead4"/>
     <text x="95" y="283" fill="#99f6e4">NEOVERSITY</text>
     <rect x="232" y="256" width="225" height="42" rx="21" fill="#152539" stroke="#2a4762"/>
-    <text x="251" y="283" fill="#bfdbfe">Python · базовий рівень</text>
+    <text x="251" y="283" fill="#bfdbfe">Python · beginner</text>
     <rect x="469" y="256" width="175" height="42" rx="21" fill="#1e2139" stroke="#424367"/>
-    <text x="489" y="283" fill="#c7d2fe">Кібербезпека</text>
+    <text x="489" y="283" fill="#c7d2fe">Cybersecurity</text>
   </g>
   <g transform="translate(943 100)" fill="none">
     <circle cx="60" cy="74" r="100" stroke="#5eead4" stroke-opacity="0.07"/>
@@ -36,6 +36,6 @@
     <path d="m44 56-20 18 20 18m32-36 20 18-20 18M69 48 51 100" stroke="#99f6e4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
   <path d="M60 348H1140" stroke="#273749"/>
-  <text x="60" y="377" fill="#6e889f" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">НАВЧАННЯ / ПРАКТИКА / РОЗВИТОК</text>
+  <text x="60" y="377" fill="#6e889f" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">LEARN / PRACTICE / GROW</text>
   <circle cx="1129" cy="372" r="4" fill="#5eead4"/>
 </svg>

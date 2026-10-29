@@ -1,37 +1,37 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="yukich — студент NEOVERSITY. Починаю свій шлях в IT." width="100%" />
+  <img src="assets/profile-header.svg" alt="yukich — NEOVERSITY student. Starting my journey in tech." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Навчаюся. Практикуюся. Рухаюся до кібербезпеки.</strong>
+  <strong>Learning. Practicing. Working toward cybersecurity.</strong>
 </p>
 
-### Привіт, я yukich 👋
+### Hi, I'm yukich 👋
 
-Я студент **NEOVERSITY**, початківець у програмуванні. Маю **базові знання Python** й хочу отримати міцну основу для подальшого розвитку в IT. Мене цікавить **кібербезпека** — у майбутньому хочу стати фахівцем у цьому напрямі.
+I'm a **NEOVERSITY** student and a beginner in programming. I have **basic Python knowledge** and want to build a solid foundation for a career in tech. I'm interested in **cybersecurity** and hope to become a specialist in this field.
 
 <br />
 
-| 🎓 Освіта | 🐍 Знання | 🛡️ Інтерес |
+| 🎓 Education | 🐍 Skills | 🛡️ Interest |
 | :--- | :--- | :--- |
-| Навчаюся в **NEOVERSITY** | **Python · базовий рівень** | **Кібербезпека** |
+| Studying at **NEOVERSITY** | **Python · beginner** | **Cybersecurity** |
 
-### Над чим хочу працювати
+### My learning goals
 
-- Поглиблювати знання Python та основ програмування.
-- Отримувати практику в навчальних проєктах.
-- Поступово вивчати кібербезпеку.
+- Improve my Python skills and understanding of programming fundamentals.
+- Gain hands-on experience through learning projects.
+- Explore cybersecurity step by step.
 
-### Трохи про мене
+### A little about me
 
-Швидко адаптуюся до нових умов. У вільний час граю в **Dota 2** з друзями та спілкуюся в **Discord**.
+I adapt quickly to new situations. In my free time, I play **Dota 2** with friends and hang out on **Discord**.
 
-### Навчальний проєкт
+### Learning project
 
-**[Команда NEOVERSITY ↗](https://github.com/Agnasikc/Test/tree/yukich-profile)**
+**[NEOVERSITY Team ↗](https://github.com/Agnasikc/Test/tree/yukich-profile)**
 
-Моя картка на командному сайті: знайомство, цілі та плани після навчання.
+My introduction on our team website, including my goals and plans after graduation.
 
 ---
 
-> Живи так, щоб не було соромно перед собою.
+> Live a life you can be proud of.
